@@ -472,7 +472,7 @@ $user_id = @$_GET['user_id'];
       var marker26 = new longdo.Marker(
         { lon:  98.39250490886289, lat: 7.884091866376772},
         {
-          title: 'พิพิธภัณฑ์ตราไปรณียากรภูเก็ต',
+          title: 'พิพิธภัณฑ์ตราไปรณียากรภูเก็ต.',
           icon: {
             url: 'https://map.longdo.com/mmmap/images/pin_mark.png',
             offset: { x: 12, y: 45 }
