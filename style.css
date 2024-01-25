@@ -1,0 +1,73 @@
+html, body {
+    background-color: rgb(163, 171, 171);
+    margin: 0;
+    padding: 0;
+
+}
+
+.top {
+    background-color: rgb(108, 25, 25);
+}
+
+.menu {
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.brand {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.mapp {
+    margin:20px;
+    height:100%; 
+
+}
+
+.main {
+    max-width: 70%;
+    margin: auto;
+}
+
+.box {
+    background-color: white;
+    padding: 80%;;
+    margin: 80;
+}
+
+.image {
+    width: 100%;
+}
+
+.Button {
+    color: rgb(62, 13, 13);
+    background-color: rgb(19, 17, 16);
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.bottom {
+    background-color: rgb(106, 104, 104);
+    padding: 20px;
+    text-align: center;
+}
+
+
+/*///////////////////Login//////////////////////////////*/
+
+.log {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+
+  .box2 {
+    background-color: rgb(130, 130, 130);
+    padding: 100px;
+    margin: 120px;
+}
